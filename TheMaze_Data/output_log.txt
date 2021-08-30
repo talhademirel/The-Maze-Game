@@ -1,0 +1,267 @@
+Initialize engine version: 5.4.0f3 (a6d8d714de6f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvldumdx.dll 25.21.14.1735]
+    Renderer: NVIDIA GeForce GTX 960
+    Vendor:   NVIDIA
+    VRAM:     2007 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 NULL=1 RESZ=0 SlowINTZ=0 ATOC=1
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\demirel\Desktop\ \ \The Maze\TheMaze_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\demirel\Desktop\ \ \The Maze\TheMaze_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\demirel\Desktop\ \ \The Maze\TheMaze_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\demirel\Desktop\ \ \The Maze\TheMaze_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\demirel\Desktop\ \ \The Maze\TheMaze_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\demirel\Desktop\ \ \The Maze\TheMaze_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\demirel\Desktop\ \ \The Maze\TheMaze_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\demirel\Desktop\ \ \The Maze\TheMaze_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\demirel\Desktop\ \ \The Maze\TheMaze_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\demirel\Desktop\ \ \The Maze\TheMaze_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\demirel\Desktop\ \ \The Maze\TheMaze_Data\Managed\Pathfinding.ClipperLib.dll (this message is harmless)
+Loading C:\Users\demirel\Desktop\ \ \The Maze\TheMaze_Data\Managed\Pathfinding.ClipperLib.dll into Unity Child Domain
+Platform assembly: C:\Users\demirel\Desktop\ \ \The Maze\TheMaze_Data\Managed\Pathfinding.Ionic.Zip.Reduced.dll (this message is harmless)
+Loading C:\Users\demirel\Desktop\ \ \The Maze\TheMaze_Data\Managed\Pathfinding.Ionic.Zip.Reduced.dll into Unity Child Domain
+Platform assembly: C:\Users\demirel\Desktop\ \ \The Maze\TheMaze_Data\Managed\Pathfinding.JsonFx.dll (this message is harmless)
+Loading C:\Users\demirel\Desktop\ \ \The Maze\TheMaze_Data\Managed\Pathfinding.JsonFx.dll into Unity Child Domain
+Platform assembly: C:\Users\demirel\Desktop\ \ \The Maze\TheMaze_Data\Managed\Pathfinding.Poly2Tri.dll (this message is harmless)
+Loading C:\Users\demirel\Desktop\ \ \The Maze\TheMaze_Data\Managed\Pathfinding.Poly2Tri.dll into Unity Child Domain
+Platform assembly: C:\Users\demirel\Desktop\ \ \The Maze\TheMaze_Data\Managed\PlayMaker.dll (this message is harmless)
+Loading C:\Users\demirel\Desktop\ \ \The Maze\TheMaze_Data\Managed\PlayMaker.dll into Unity Child Domain
+- Completed reload, in  0.076 seconds
+Platform assembly: C:\Users\demirel\Desktop\ \ \The Maze\TheMaze_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\demirel\Desktop\ \ \The Maze\TheMaze_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.842812 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 3ac0 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.675868 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1761.
+Total: 1.151414 ms (FindLiveObjects: 0.127707 ms CreateObjectMapping: 0.033607 ms MarkObjects: 0.351561 ms  DeleteObjects: 0.637953 ms)
+
+Collecting Meshes
+Generating Tile #0 of 25
+Generating Tile #1 of 25
+Generating Tile #2 of 25
+Generating Tile #3 of 25
+Generating Tile #4 of 25
+Generating Tile #5 of 25
+Generating Tile #6 of 25
+Generating Tile #7 of 25
+Generating Tile #8 of 25
+Generating Tile #9 of 25
+Generating Tile #10 of 25
+Generating Tile #11 of 25
+Generating Tile #12 of 25
+Generating Tile #13 of 25
+Generating Tile #14 of 25
+Generating Tile #15 of 25
+Generating Tile #16 of 25
+Generating Tile #17 of 25
+Generating Tile #18 of 25
+Generating Tile #19 of 25
+Generating Tile #20 of 25
+Generating Tile #21 of 25
+Generating Tile #22 of 25
+Generating Tile #23 of 25
+Generating Tile #24 of 25
+Assigning Graph Indices
+Connecing Tile #0 of 25
+Connecing Tile #1 of 25
+Connecing Tile #2 of 25
+Connecing Tile #3 of 25
+Connecing Tile #4 of 25
+Connecing Tile #5 of 25
+Connecing Tile #6 of 25
+Connecing Tile #7 of 25
+Connecing Tile #8 of 25
+Connecing Tile #9 of 25
+Connecing Tile #10 of 25
+Connecing Tile #11 of 25
+Connecing Tile #12 of 25
+Connecing Tile #13 of 25
+Connecing Tile #14 of 25
+Connecing Tile #15 of 25
+Connecing Tile #16 of 25
+Connecing Tile #17 of 25
+Connecing Tile #18 of 25
+Connecing Tile #19 of 25
+Connecing Tile #20 of 25
+Connecing Tile #21 of 25
+Connecing Tile #22 of 25
+Connecing Tile #23 of 25
+Connecing Tile #24 of 25
+Scanning - Process took 569 ms to complete
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Path Completed : Computation Time 4.90 ms Searched Nodes 910 Path Length 299
+Path Number 1 (unique id)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 910 Path Length 299
+Path Number 2 (unique id)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 910 Path Length 299
+Path Number 3 (unique id)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Path Completed : Computation Time 1.96 ms Searched Nodes 910 Path Length 299
+Path Number 4 (unique id)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 910 Path Length 299
+Path Number 5 (unique id)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 910 Path Length 297
+Path Number 6 (unique id)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 910 Path Length 297
+Path Number 7 (unique id)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 910 Path Length 296
+Path Number 8 (unique id)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 910 Path Length 295
+Path Number 9 (unique id)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 910 Path Length 295
+Path Number 10 (unique id)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 910 Path Length 294
+Path Number 11 (unique id)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Path Completed : Computation Time 0.98 ms Searched Nodes 910 Path Length 294
+Path Number 12 (unique id)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 910 Path Length 293
+Path Number 13 (unique id)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 910 Path Length 293
+Path Number 14 (unique id)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 910 Path Length 291
+Path Number 15 (unique id)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 910 Path Length 289
+Path Number 16 (unique id)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Path Completed : Computation Time 0.98 ms Searched Nodes 910 Path Length 288
+Path Number 17 (unique id)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 910 Path Length 286
+Path Number 18 (unique id)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 910 Path Length 285
+Path Number 19 (unique id)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Path Completed : Computation Time 0.98 ms Searched Nodes 908 Path Length 282
+Path Number 20 (unique id)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 908 Path Length 282
+Path Number 21 (unique id)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 909 Path Length 280
+Path Number 22 (unique id)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 908 Path Length 279
+Path Number 23 (unique id)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 908 Path Length 279
+Path Number 24 (unique id)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 908 Path Length 278
+Path Number 25 (unique id)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Path Completed : Computation Time 0.98 ms Searched Nodes 908 Path Length 278
+Path Number 26 (unique id)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Path Completed : Computation Time 0.98 ms Searched Nodes 908 Path Length 277
+Path Number 27 (unique id)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 908 Path Length 277
+Path Number 28 (unique id)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Path Completed : Computation Time 0.98 ms Searched Nodes 905 Path Length 277
+Path Number 29 (unique id)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Path Completed : Computation Time 0.98 ms Searched Nodes 905 Path Length 277
+Path Number 30 (unique id)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 906 Path Length 276
+Path Number 31 (unique id)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Path Completed : Computation Time 1.95 ms Searched Nodes 907 Path Length 275
+Path Number 32 (unique id)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.650115 ms
+
+Unloading 99 unused Assets to reduce memory usage. Loaded Objects now: 569.
+Total: 3.143011 ms (FindLiveObjects: 0.042374 ms CreateObjectMapping: 0.029515 ms MarkObjects: 0.577753 ms  DeleteObjects: 2.492491 ms)
+
