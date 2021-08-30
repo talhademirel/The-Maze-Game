@@ -1,29 +1,33 @@
 ///KONTROLLER///
- W,A,S,D Yön Tuşları.
- Shift Koşma.
- E Etkileşim tuşu
- F Fener açma/kapama
- V Yere ipucu koyma tuşu
 
-///AMAÇ///
--Oyunda ki amaç labirendeki canavara ölmeden çıkış yolunu bulmak.
+ W,A,S,D YÃ¶n TuÅŸlarÄ±.
+ Shift KoÅŸma.
+ E EtkileÅŸim tuÅŸu
+ F Fener aÃ§ma/kapama
+ V Yere ipucu koyma tuÅŸu
 
-///BİLGİLENDİRME///
--Sol alt köşede ki bar ne kadar şarjınız kaldığını, sağ alt köşede ki
-sayılar ise canınızı ve kaç ipucunuz olduğunu göstermektedir.
-(Şarjınızı yerde bulduğunuz bataryaları toplayarak doldurabilirsiniz.)
--Yere bakıp(imleciniz yeşil renge dönüşecektir) "v" tuşuna basarak yere
-ipucu yerleştirebilirsiniz.
-(İpuclarını yere koymak geçtiğiniz yolu hatırlamanız için yardımcı olur)
--Labirentin içinde sizi arıyan bir canavar vardır ve bu canavar ışığa karşı duyarlıdır.
-Eğer siz el feneriniz ile canavara doğru ışık tutarsanız canavar donar ve size zarar veremez.
-(Eğer bataryanız biterse canavardan kaçamaz ve ölürsünüz)
+///AMAÃ‡///
+
+-Oyunda ki amaÃ§ labirendeki canavara Ã¶lmeden Ã§Ä±kÄ±ÅŸ yolunu bulmak.
+
+///BÄ°LGÄ°LENDÄ°RME///
+
+-Sol alt kÃ¶ÅŸede ki bar ne kadar ÅŸarjÄ±nÄ±z kaldÄ±ÄŸÄ±nÄ±, saÄŸ alt kÃ¶ÅŸede ki
+sayÄ±lar ise canÄ±nÄ±zÄ± ve kaÃ§ ipucunuz olduÄŸunu gÃ¶stermektedir.
+(ÅarjÄ±nÄ±zÄ± yerde bulduÄŸunuz bataryalarÄ± toplayarak doldurabilirsiniz.)
+-Yere bakÄ±p(imleciniz yeÅŸil renge dÃ¶nÃ¼ÅŸecektir) "v" tuÅŸuna basarak yere
+ipucu yerleÅŸtirebilirsiniz.
+(Ä°puclarÄ±nÄ± yere koymak geÃ§tiÄŸiniz yolu hatÄ±rlamanÄ±z iÃ§in yardÄ±mcÄ± olur)
+-Labirentin iÃ§inde sizi arÄ±yan bir canavar vardÄ±r ve bu canavar Ä±ÅŸÄ±ÄŸa karÅŸÄ± duyarlÄ±dÄ±r.
+EÄŸer siz el feneriniz ile canavara doÄŸru Ä±ÅŸÄ±k tutarsanÄ±z canavar donar ve size zarar veremez.
+(EÄŸer bataryanÄ±z biterse canavardan kaÃ§amaz ve Ã¶lÃ¼rsÃ¼nÃ¼z)
 
 ///HATIRLATMA///
--Oyuna başladığınızda hemen altınızda bulunan
-el feneri, batarya ve ipuçlarını e tuşu ile almayı unutmayınız.
+
+-Oyuna baÅŸladÄ±ÄŸÄ±nÄ±zda hemen altÄ±nÄ±zda bulunan
+el feneri, batarya ve ipuÃ§larÄ±nÄ± e tuÅŸu ile almayÄ± unutmayÄ±nÄ±z.
 -Labirent bir algoritma ile her seferinde generate ediliyor, yani oyuna her
-girdiğinizde farklı bir labirent ile karşılaşacaksınız ve çıkış yolu hiçbir zaman
-aynı olmayacak:)
+girdiÄŸinizde farklÄ± bir labirent ile karÅŸÄ±laÅŸacaksÄ±nÄ±z ve Ã§Ä±kÄ±ÅŸ yolu hiÃ§bir zaman
+aynÄ± olmayacak:)
 
 
